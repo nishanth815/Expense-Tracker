@@ -26,3 +26,6 @@ A desktop budget tracker application built with Python and Tkinter.
 - Check visualization functionality
 
 - ![alt text](https://github.com/nishanth815/Expense-Tracker/blob/main/screenshots/Bar%20Graph.png)
+- ![alt text](https://github.com/nishanth815/Expense-Tracker/blob/main/screenshots/Detailed%20Breakdown.png)
+- ![alt text](https://github.com/nishanth815/Expense-Tracker/blob/main/screenshots/Expense%20Tracker.png)
+- - ![alt text](https://github.com/nishanth815/Expense-Tracker/blob/main/screenshots/Pie%20Chart.png)
