@@ -16,7 +16,9 @@ A desktop budget tracker application built with Python and Tkinter.
 
 ## Installation
 1. Clone repository
-2. Run: `python budget_tracker.py`
+2. Run: `Expense-tracker.py`
+3. Install Matplotlib for visualization
+4. Install Tkinter 
 
 ## Testing
 - Test adding expenses with valid/invalid inputs
