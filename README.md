@@ -1,4 +1,4 @@
-# Budget Buddy V5.0 - Robust Indian Edition
+# Expense-Tracker 
 
 A desktop budget tracker application built with Python and Tkinter.
 
